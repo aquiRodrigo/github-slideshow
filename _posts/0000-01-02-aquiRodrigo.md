@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Y si te bajara el sol, quemadota que te dabas
 Use the left arrow to go back!
